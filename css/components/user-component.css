@@ -1,5 +1,6 @@
 .user-component {
   display: flex;
+  margin-bottom: 10px;
 }
 
 .user-component {
@@ -15,7 +16,7 @@
 .user-component__avatar {
   width: 70px;
   height: 70px;
-  border-radius: 35px;
+  border-radius: 27px;
   margin-right: 20px;
 }
 
