@@ -4,6 +4,7 @@
   display: block;
   text-align: center;
   background-color: #fafafa;
+  margin-bottom: 10px;
 }
 
 #friends-display-link i {
